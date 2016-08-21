@@ -5,5 +5,5 @@ I have google map and apple map version, google map can run on xcode simulator, 
 
 Remember to replace your own forecast.io API key in app to get weather info.
 
-App Download Link:
+App Store Link:
 https://itunes.apple.com/us/app/tv+map/id1141099400?mt=8
